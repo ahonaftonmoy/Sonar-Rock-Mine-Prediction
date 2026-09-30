@@ -68,3 +68,10 @@ The trained model predicts whether the object represented by the sonar measureme
 
 - **Rock**
 - **Mine**
+
+## 📈 Results
+
+The Logistic Regression model achieved:
+
+- Training Accuracy: **84.49%**
+- Testing Accuracy: **80.95%**
